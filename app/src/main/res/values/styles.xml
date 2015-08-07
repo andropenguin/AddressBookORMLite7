@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextAppearance.Title" parent="@android:style/TextAppearance.Large">
+    </style>
+    <style name="TextAppearance.Item" parent="@android:style/TextAppearance.Large">
+    </style>
+    <style name="ListItem" parent="@android:style/TextAppearance.Medium">
+        <item name="android:background">@drawable/bgcolor_highlighted</item>
+    </style>
+</resources>

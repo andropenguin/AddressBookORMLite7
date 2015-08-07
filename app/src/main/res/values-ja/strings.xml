@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddressBookORMLite7</string>
+
+    <string name="hello_world">やあ、世界!</string>
+    <string name="action_settings">設定</string>
+    <string name="name">氏名</string>
+    <string name="zipcode">郵便番号</string>
+    <string name="prefecture">都道府県</string>
+    <string name="city">市区町村</string>
+    <string name="other">町名番地</string>
+    <string name="register">登録</string>
+    <string name="update">更新</string>
+</resources>

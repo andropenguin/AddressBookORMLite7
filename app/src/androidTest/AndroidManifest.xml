@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.sarltokyo.addressbookormlite7.app.test"
+        >
+    <application>
+        <activity android:name="com.sarltokyo.addressbookormlite7.app.test.UnlockKeyguardActivity" android:exported="true"></activity>
+    </application>
+
+</manifest>
