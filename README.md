@@ -16,6 +16,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 # Used codes
 
 This sample uses some codes of projects and blog as follows.
-https://github.com/cattaka/FastCheckList
-http://tomoyamkung.net/2014/02/24/android-loader-execute/
-http://baroqueworksdevjp.blogspot.jp/2015/03/espressotoast.html
+
+* https://github.com/cattaka/FastCheckList
+* http://tomoyamkung.net/2014/02/24/android-loader-execute/
+* http://baroqueworksdevjp.blogspot.jp/2015/03/espressotoast.html
